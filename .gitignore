@@ -1,0 +1,21 @@
+# Temporary and user data
+uploads/
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment (if any)
+venv/
+.venv/
+env/
+.env/
+
+# IDE files
+.vscode/
+.idea/
